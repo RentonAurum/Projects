@@ -1,3 +1,5 @@
+# [English]
+
 # RentonAurum's projects
 
 This repository contains all my personal projects carried out in Unity3D.
@@ -14,6 +16,7 @@ First official project carried out by me and two other my colleagues known throu
 
 The request was to create a 3D project completely from scratch with about a week of time available.
 
+# [Italiano]
 
 # Progetti di RentonAurum
 
