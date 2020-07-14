@@ -4,5 +4,5 @@ Questo repository contiene tutti i miei progetti personali svolti in Unity3D.
 
 ## Sintesi Progetto FPS - XingZombie
 
-Questo è il primo progetto ufficiale svolto da me ed altri due miei colleghi conosciuti tramite un corso di YTIA (Young Talent in Action - ManPower).
+Primo progetto ufficiale svolto da me ed altri due miei colleghi conosciuti tramite un corso di YTIA (Young Talent in Action - ManPower).
 La richiesta era di realizzare, completamente da zero, un progetto 3D con circa una settimana di tempo a disposizione.
