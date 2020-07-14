@@ -1,7 +1,6 @@
 # Progetti di RentonAurum
 
 Questo repository contiene tutti i miei progetti personali svolti in Unity3D.
-
 Terrò aggiornato il repository ordinando i progetti sotto i vari Branches.
 
 ## Sintesi Progetto FPS - XingZombie
