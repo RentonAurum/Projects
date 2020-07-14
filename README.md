@@ -8,7 +8,7 @@ Al momento è presente soltanto un progetto personale visibile. Attualmente sto 
 
 ## About
 
-# Progetto FPS - XingZombie
+### Progetto FPS - XingZombie
 
 Primo progetto ufficiale svolto da me ed altri due miei colleghi conosciuti tramite un corso di YTIA (Young Talent in Action - ManPower).
 
