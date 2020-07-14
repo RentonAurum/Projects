@@ -4,6 +4,8 @@ Questo repository contiene tutti i miei progetti personali svolti in Unity3D.
 
 Terrò aggiornato il repository ordinando i progetti sotto i vari Branches.
 
+Al momento è presente soltanto 1 progetto personale visibile. Attualmente sto lavorando su altri due prototipi riguardo un Action/RPG 3D ed un Platform 2.5D.
+
 ## Sintesi Progetto FPS - XingZombie
 
 Primo progetto ufficiale svolto da me ed altri due miei colleghi conosciuti tramite un corso di YTIA (Young Talent in Action - ManPower).
