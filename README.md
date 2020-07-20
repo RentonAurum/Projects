@@ -6,7 +6,7 @@ This repository contains all my personal projects carried out in Unity3D.
 
 I'll keep the repository updated by ordering the projects under the various Branches.
 
-At the moment there is only one visible personal project. I'm currently working on two other prototypes regarding Action / RPG 3D and Platform 2.5D.
+At the moment there is only one complete personal project. I'm currently working on two other prototypes regarding Action / RPG 3D and Platform 2.5D.
 
 ## About
 
@@ -24,7 +24,7 @@ Questo repository contiene tutti i miei progetti personali svolti in Unity3D.
 
 Terrò aggiornato il repository ordinando i progetti sotto i vari Branches.
 
-Al momento è presente soltanto un progetto personale visibile. Attualmente sto lavorando su altri due prototipi riguardo un Action/RPG 3D ed un Platform 2.5D.
+Al momento è presente soltanto un progetto personale completo. Attualmente sto lavorando su altri due prototipi riguardo un Action/RPG 3D ed un Platform 2.5D.
 
 ## Riguardo i Progetti
 
