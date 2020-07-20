@@ -1,0 +1,22 @@
+{
+    "name": "Enemy_Caster",
+    "type": "asset",
+    "roots": [
+        "Assets/Scripts"
+    ],
+    "includes": [],
+    "excludes": [
+        "Temp/",
+        "External/"
+    ],
+    "baseScore": 100,
+    "options": {
+        "disabled": false,
+        "files": true,
+        "directories": false,
+        "fstats": true,
+        "types": true,
+        "properties": true,
+        "dependencies": true
+    }
+}
