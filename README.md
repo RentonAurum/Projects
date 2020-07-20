@@ -12,9 +12,9 @@ At the moment there is only one visible personal project. I'm currently working 
 
 - __FPS Project - XingZombie__
 
-        First official project carried out by me and two other my colleagues known through a YTIA course (Young Talent in Action - ManPower).
+    First official project carried out by me and two other my colleagues known through a YTIA course (Young Talent in Action - ManPower).
 
-        The request was to create a 3D project completely from scratch with about a week of time available.
+    The request was to create a 3D project completely from scratch with about a week of time available.
 
 # [Italiano]
 
